@@ -1,4 +1,4 @@
-the first number in the .csv filename is the measurement integration time and the last letter represents what measurement it is
+the first number in the .csv filename is the measurement integration time, the middle text/letters the sensor model and the last letter represents what measurement it is
 R G or B are lab LED tests
 a (ambient), t (tupperware/container) and i (ice) represent the first ice test
 capitalised A, T or I represent the second ice test
